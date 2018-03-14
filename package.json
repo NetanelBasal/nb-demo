@@ -1,5 +1,5 @@
 {
-  "name": "typescript-starter",
+  "name": "nb-demo",
   "version": "1.0.0",
   "description": "dont use it",
   "main": "build/main/index.js",
@@ -52,6 +52,7 @@
     "node": ">=8.9"
   },
   "dependencies": {
+    "commitizen": "^2.9.6",
     "sha.js": "^2.4.10"
   },
   "devDependencies": {
